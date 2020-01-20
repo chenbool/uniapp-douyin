@@ -1,0 +1,20 @@
+.index {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  /* align-items: center; */
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  background-color: #333333;
+  height: 100vh;
+}
+.tabbar .action .plus image {
+  width: 100rpx;
+  height: 60rpx;
+}
+

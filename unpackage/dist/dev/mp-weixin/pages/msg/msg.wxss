@@ -1,0 +1,35 @@
+.msg {
+  width: 100vw;
+  height: 100vh;
+  background-color: #161823;
+}
+.tools view {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+}
+.tools image {
+  width: 100rpx;
+  height: 100rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.cu-list.grid {
+  background-color: #161823;
+  padding: 30rpx 0;
+  color: #FFFFFF;
+  border-bottom: 1px solid rgba(110, 111, 117, 0.5);
+}
+.cu-list + .cu-list {
+  margin-top: 0;
+}
+.cu-list.menu-avatar > .cu-item {
+  background-color: #161823;
+  border-color: rgba(110, 111, 117, 0.5);
+}
+

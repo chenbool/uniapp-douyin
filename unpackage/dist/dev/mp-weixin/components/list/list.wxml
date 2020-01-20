@@ -1,0 +1,1 @@
+<view><view class="list"><block wx:for="{{dataList}}" wx:for-item="item" wx:for-index="index" wx:key="index"><block><navigator class="video" src="{{'/pages/video/video?video_id='+item.video_id}}"><image src="{{item.cover_url}}"></image></navigator></block></block></view></view>

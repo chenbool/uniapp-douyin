@@ -1,0 +1,1 @@
+<view class="index"><index-header vue-id="1" bgColor="bg-index-header" data-event-opts="{{[['^headerSwitch',[['headerSwitch']]]]}}" bind:headerSwitch="__e" bind:__l="__l"></index-header><cu-video class="video" vue-id="2" video_list="{{videoList}}" bind:__l="__l"></cu-video></view>

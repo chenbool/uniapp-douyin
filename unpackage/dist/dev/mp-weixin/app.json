@@ -1,0 +1,47 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/city/city",
+    "pages/msg/msg",
+    "pages/my/my"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "抖音",
+    "navigationBarBackgroundColor": "#000000",
+    "backgroundColor": "#000000",
+    "navigationStyle": "custom"
+  },
+  "tabBar": {
+    "borderStyle": "black",
+    "backgroundColor": "#000",
+    "color": "#A7A8AD",
+    "selectedColor": "#FAFAFC",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/city/city",
+        "text": "同城"
+      },
+      {
+        "pagePath": "pages/put/put",
+        "iconPath": "static/img/add.png"
+      },
+      {
+        "pagePath": "pages/msg/msg",
+        "text": "消息"
+      },
+      {
+        "pagePath": "pages/my/my",
+        "text": "我"
+      }
+    ]
+  },
+  "usingComponents": {
+    "cu-custom": "/colorui/components/cu-custom"
+  }
+}

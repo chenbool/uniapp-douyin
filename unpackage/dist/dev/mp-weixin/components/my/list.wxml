@@ -1,0 +1,1 @@
+<view><view class="list grid col-3 align-center justify-center"><block wx:for="{{dataList}}" wx:for-item="item" wx:for-index="index" wx:key="index"><block><view class="video"><image src="{{item.cover_url}}"></image></view></block></block></view></view>

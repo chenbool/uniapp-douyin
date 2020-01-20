@@ -1,0 +1,32 @@
+.cu-custom .bg-index-header {
+  background-color: rgba(255, 255, 255, 0);
+}
+.cu-custom .action .cuIcon-playfill {
+  background-color: rgba(255, 255, 255, 0.5);
+  border-radius: 50rpx;
+  padding: 18rpx;
+  color: #FFFFFF;
+}
+.cu-custom .right {
+  padding-right: 30rpx;
+}
+.cu-custom .right .cuIcon-search {
+  background-color: rgba(255, 255, 255, 0.5);
+  border-radius: 50rpx;
+  padding: 18rpx;
+  color: #FFFFFF;
+}
+.cu-custom .content-1 .action {
+  border-radius: 80rpx;
+  background-color: rgba(255, 255, 255, 0.2);
+}
+.cu-custom .content-1 .action .item {
+  border-radius: 80rpx;
+  padding: 12rpx 30rpx;
+  margin: 0 5rpx;
+  color: #FFFFFF;
+}
+.cu-custom .content-1 .action .selected {
+  background-color: rgba(255, 255, 255, 0.5);
+}
+

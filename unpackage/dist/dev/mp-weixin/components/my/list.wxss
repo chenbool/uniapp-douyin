@@ -1,0 +1,19 @@
+
+.list {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack:justify;
+	-webkit-justify-content:space-between;
+	        justify-content:space-between;
+	-webkit-flex-wrap: wrap;
+	        flex-wrap: wrap;
+	padding-bottom: 100rpx;
+	padding: 5px;
+	background: #161922;
+	box-sizing: border-box;
+}
+.video{
+	min-height: 400rpx;
+}
+

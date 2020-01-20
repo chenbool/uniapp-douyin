@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "抖音",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "index-header": "/components/index-header",
+    "cu-video": "/components/cu-video"
+  }
+}

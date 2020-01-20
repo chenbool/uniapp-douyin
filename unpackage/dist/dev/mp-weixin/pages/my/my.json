@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "video-list": "/components/my/list"
+  }
+}
