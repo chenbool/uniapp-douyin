@@ -1,6 +1,6 @@
 # uniapp-douyin
 
-![](https://images.gitee.com/uploads/images/2019/1225/193410_cb913fe8_1126226.png) 
+![](https://img-cdn-qiniu.dcloud.net.cn/uniapp/doc/uniapp4@2x.png) 
 
 基于 uniapp 开发
 ===============
