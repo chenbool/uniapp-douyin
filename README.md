@@ -2,6 +2,17 @@
 
 基于 uniapp 开发的抖音小视频实战项目。
 
+## 演示截图
+
+<table>
+    <tr>
+        <td><img src="https://img.cdn.aliyun.dcloud.net.cn/stream/plugin_screens/584c2330-3b68-11ea-a0d5-678249d7b223_0.png?v=1579513852" width="200"/></td>
+        <td><img src="https://img.cdn.aliyun.dcloud.net.cn/stream/plugin_screens/584c2330-3b68-11ea-a0d5-678249d7b223_1.png?v=1579513852" width="200"/></td>
+        <td><img src="https://img.cdn.aliyun.dcloud.net.cn/stream/plugin_screens/584c2330-3b68-11ea-a0d5-678249d7b223_2.png?v=1579513852" width="200"/></td>
+        <td><img src="https://img.cdn.aliyun.dcloud.net.cn/stream/plugin_screens/584c2330-3b68-11ea-a0d5-678249d7b223_3.png?v=1579513852" width="200"/></td>
+    </tr>
+</table>
+
 ## 特性
 
 - 仿抖音短视频界面
